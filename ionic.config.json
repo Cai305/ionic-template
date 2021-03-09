@@ -1,0 +1,7 @@
+{
+  "name": "fastpay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
